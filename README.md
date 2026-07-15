@@ -1,6 +1,6 @@
 Loan Risk Analysis — Retail Lending Portfolio
 A rule-based credit risk scoring project analyzing 255,000+ retail loan records, built using SQL, Python, and Power BI. Designed to mirror how a bank's risk/credit analytics team evaluates loan applicant risk.
-[Dashboard Preview] (power bi/dashboard_preview.png)
+[Dashboard Preview] ( power bi/dashboard_preview.png )
 Problem Statement
 Banks lose significant value each year to loan defaults. This project analyzes a retail loan portfolio to identify which borrower characteristics are the strongest predictors of default, and builds a transparent, explainable risk-scoring framework to flag high-risk applicants before loans are approved.
 Tools Used
